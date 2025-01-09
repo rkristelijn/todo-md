@@ -29,3 +29,7 @@ BACKLOG
 
 - `node index.mjs lint` - lint the `TODO.md`
 - `node index.mjs init` - create an example `TODO.md`
+
+## Sponsor me
+
+[Sponsor me](https://github.com/sponsors/rkristelijn/) if you appreciate my work.
